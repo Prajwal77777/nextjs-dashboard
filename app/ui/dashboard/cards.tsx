@@ -41,6 +41,7 @@ export function Card({
 }) {
   const Icon = iconMap[type];
 
+
   return (
     <div className="rounded-xl bg-gray-50 p-2 shadow-sm">
       <div className="flex p-4">
